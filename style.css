@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: "Poppins", "sans-serif";
+}
+
+body {
+  background-color: #373737;
+}
+
+section.gallery {
+  width: 900px;
+  display: flex;
+  /* background-color: antiquewhite; */
+}
+.gallery div {
+  width: 100%;
+}
+.gallery img {
+  width: 30%;
+}
